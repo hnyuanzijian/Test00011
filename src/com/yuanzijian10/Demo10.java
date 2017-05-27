@@ -1,6 +1,6 @@
 package com.yuanzijian10;
 
-//import myutil.MyArrays;
+//import util.MyArrays;
 
 class Demo10 
 {
